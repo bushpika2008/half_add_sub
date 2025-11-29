@@ -22,7 +22,8 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 
 Figure -01 HALF ADDER
 # Truth Table:
-img width="306" height="166" alt="image" src="https://github.com/user-attachments/assets/9be7ba90-c1b7-41ce-b522-3570409edccc" />
+<img width="527" height="311" alt="image" src="https://github.com/user-attachments/assets/e84bec6f-63fb-4b35-9452-8398ee1d4b04" />
+
 
 
 
